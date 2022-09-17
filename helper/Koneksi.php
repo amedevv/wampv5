@@ -1,9 +1,9 @@
 <?php
 
-$host = 'localhost';
-$username = 'root';
-$password = '';
-$database = 'wav4';
+$host = 'remotemysql.com';
+$username = 'L1DMZixNFJ';
+$password = '5LqwRCy38E';
+$database = 'L1DMZixNFJ';
 
 try {
     //code...
