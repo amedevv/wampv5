@@ -5,9 +5,9 @@ session_start();
  
 date_default_timezone_set('Asia/Jakarta');
  
-define('BASE_URL', 'https://testt.m-pedia.my.id/');
+define('BASE_URL', 'http://whagatewayapiv1.herokuapp.com/');
  
-define('URL_WA', 'https://testt.m-pedia.my.id/');
+define('URL_WA', 'http://whagatewayapiv1.herokuapp.com/');
  
 define('LICENSE_KEY', '39be1f21-6e91-438a-a6b8-4e480e972ab9');
  
